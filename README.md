@@ -30,7 +30,7 @@ Can be configured to monitor the metrics.
 
 # Configuring metrics
 
-1- First, lets generate some metrics, so access http://localhost:8000/{name-of-tag} how many times you want:
+1- First, lets generate some metrics, so access http://localhost:7000/{name-of-tag} how many times you want:
 ![image](https://user-images.githubusercontent.com/31675029/151071183-4d46c298-d765-4c0b-a56a-95848724c4b8.png)
 
 2- Counter metric.
