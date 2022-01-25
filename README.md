@@ -40,7 +40,7 @@ click in Apply, ready! The counter metric is configured:
 
 3- Gauge metric.
 Add a new panel, select type of visualization "Gauge" and add the metric "spring_gauge_online_users", 
-click in Apply, ready! The gauge metric is configured (important, this metric is generate with random value in api):
+click in Apply, ready! The gauge metric is configured (important, this metric is generate with random value in the api):
 ![image](https://user-images.githubusercontent.com/31675029/151072102-74c00607-f316-409f-9c4b-af80bf9f99d9.png)
 
 4- Histogram metric.
@@ -48,10 +48,10 @@ Add a new panel, select type of visualization "Graph" or other of your preferenc
 click in Apply, ready! The histogram metric is configured:
 ![image](https://user-images.githubusercontent.com/31675029/151072569-5c181dae-c46c-4a2a-9f32-7284eb262e2e.png)
 
-5- Ready, the metrics are set and we can access localhost:7000/nomeoftag to see the values changes in grafana:
+5- Ready, the metrics are set and we can access localhost:7000/nameoftag to see the values changes in grafana:
 ![image](https://user-images.githubusercontent.com/31675029/151072918-e784fc67-ce61-44bd-8110-90e21a4bd3a4.png)
 
-
+OBS: These settings will NOT be saved. 
 
 
 
